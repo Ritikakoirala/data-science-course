@@ -1,0 +1,4 @@
+{'bookname': 'python', 'authorname': 'ritika', 'bookprice': 500}
+{'bookname': 'ai', 'authorname': 'surya bam', 'bookprice': 9000}
+
+
